@@ -3,7 +3,7 @@
 Este repositorio contiene un estudio experimental de **Aprendizaje por Refuerzo (Deep Q-Learning)** aplicado al **Ajedrez de Gardner**, una variante simplificada que utiliza un tablero de 5x5 para reducir la complejidad del espacio de estados. 
 
 El objetivo principal es analizar cómo diferentes arquitecturas de redes neuronales logran capturar la intuición posicional y la táctica (basándose en la **"Estrategia B" de Claude Shannon**) en un entorno de información perfecta, sirviendo además como puerta de entrada para entender la lógica de los motores de ajedrez modernos.
-![Demostración de la IA jugando](assets/Final(Blancas) MLP (Negro).mp4)
+![Demostración de la IA jugando](assets/Final_Blancas_-MLP-_Negro_.gif)
 
 
 ---
