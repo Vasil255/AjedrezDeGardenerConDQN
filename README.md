@@ -76,4 +76,4 @@ Este proyecto valida la viabilidad de usar redes convolucionales para capturar l
 El siguiente paso lógico para alcanzar un nivel maestro es la integración de **Monte Carlo Tree Search (MCTS)**. Mientras que la red neuronal (Estrategia B) proporciona una evaluación inmediata del estado, el MCTS permite al agente realizar una "búsqueda selectiva" profunda, simulando miles de variantes antes de decidir, tal como lo hacen los modelos líderes como **AlphaZero** o la implementación híbrida de **Stockfish**.
 
 ---
-**Desarrollado como estudio técnico sobre las limitaciones y potencias de DQN en entornos estratégicos.**
+**Este repositorio se creó como un estudio experimental para entender las arquitecturas DQN. Se da por finalizado habiendo cumplido los objetivos de aprendizaje sobre representación de estados multicanal y políticas de recompensas en entornos estratégicos.**
