@@ -59,10 +59,15 @@ Tras realizar una batería de pruebas de 50 partidas por escenario, los resultad
 
 ## 🚀 Ejecución y Uso
 
-### Opción recomendada (Google Colab)
-Haz clic en el siguiente botón para abrir el cuaderno directamente en la nube con soporte de GPU gratuito:
+### Ejecución de los entrenamientos (Google Colab)
+Haz clic en el siguiente botón para abrir el cuaderno directamente en la nube:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vasil255/AjedrezDeGardenerConDQN/blob/main/AjedrezDeGardenerConDQN.ipynb)
+
+### Jugar contra los modelos (Google Colab)
+Puedes pulsar este otro botón para ejecutar un cuaderno alternativo donde se puede tener una partida contra los modelos entrenados:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vasil255/AjedrezDeGardenerConDQN/blob/main/JugarVSIA.ipynb)
 
 ## 🏁 Conclusiones y Trabajo Futuro
 
